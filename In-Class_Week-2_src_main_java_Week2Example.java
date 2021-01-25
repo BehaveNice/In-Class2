@@ -16,5 +16,6 @@ public class Week2Example {
         s1.setName("John");
         s1.setAge(21);
         System.out.println(s1);
+        System.out.println("Hello World, I made a change!");
     }  
 }
